@@ -28,7 +28,7 @@
 | https://op.gg/ko/pokemon-champions/pokedex/gengar | 종별 싱글 샘플 |
 | https://op.gg/ko/pokemon-champions/pokedex/garchomp | 종별 싱글 샘플 |
 
-## モデル과 한계
+## 모델과 한계
 
 타입 상성은 일반 배틀 타입표를 사용한다. 부유·두꺼운지방 등 명시적으로 구현한 특성만 보정한다. 스카이스킨의 공격 타입 변환은 적용하되 정밀 대미지 보정은 계산하지 않는다. 날씨, 필드, 상태이상, 교체 순서, 메가진화 타이밍, 상대 배치 미반영.
 
